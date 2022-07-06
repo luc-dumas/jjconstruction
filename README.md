@@ -9,7 +9,7 @@
 **Link to project:** 
 
 
-https://jjconstruction.netlify.app/
+https://jj-construction.netlify.app/
 
 ![Screen Shot 2022-06-29 at 3 44 53 PM](https://user-images.githubusercontent.com/62025065/176527082-a327df46-77ef-4a72-b08b-c409b4a1e6ef.png)
 
